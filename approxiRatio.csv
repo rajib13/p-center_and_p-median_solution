@@ -1,0 +1,20 @@
+  File Name, Node Numbers,  Number Of facilities(p),  Actual p-Median Cost,  Approximation p-Median Cost,  Actual p-Center Cost,  Approximation p-Center Cost
+   samplepath.gml,   5,   3,   21.00,   37.00,   8.00,  12.00
+   samplepath1.gml,   500,   350,   790.00,   365831.90,   7.00,  12.00
+   samplepath1.gml,   500,   100,   11742.00,   20629.92,   39.43,  117.00
+   samplepath1.gml,   750,   250,   8765.00,   45877.96,   24.92,  54.00
+   samplepath1.gml,   750,   550,   976.00,   3902.13,   6.12,  10.00
+   samplepath1.gml,   250,   175,   405.00,   1484.45,   7.14,  12.00
+   samplepath1.gml,   250,   50,   6231.00,   66770.22,   40.00,  96.00
+   samplepath2.gml,   500,   350,   749.00,   6198.53,   6.40,  10.00
+   samplepath2.gml,   500,   350,   749.00,   6198.53,   6.40,  10.00
+   samplepath2.gml,   500,   90,   12770.00,   25248.70,   40.00,  128.00
+   samplepath3.gml,   750,   550,   879.00,   3560.74,   5.62,  8.00
+   samplepath3.gml,   750,   250,   8000.00,   49591.04,   25.00,  56.00
+   samplepath4.gml,   1000,   800,   619.00,   3296.33,   3.73,  6.00
+   samplepath4.gml,   1000,   440,   6159.00,   62280.39,   16.36,  30.00
+   samplepath5.gml,   1500,   950,   3593.00,   0.00,   8.89,  15.00
+   samplepath5.gml,   1500,   900,   4140.00,   76880.71,   9.60,  16.00
+   samplepath6.gml,   2000,   740,   18355.00,   302675.36,   21.00,  42.00
+   samplepath6.gml,   2000,   900,   12341.00,   260670.77,   16.00,  30.00
+   samplepath9.gml,   10,   3,   181.00,   450.33,   24.00,  56.00

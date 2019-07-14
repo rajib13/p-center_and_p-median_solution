@@ -1,2 +1,3 @@
 # p-center_and_p-median_solution
- Implemented a DP algorithm to compute the optimal p-median and absolute p-center cost inO(n2) time. Determined the approximation ratio of the optimal p-median for the p-center objective & vice-versa.
+For more description about the project read the "Project_Report" under "Documentation" directory.
+Compile and Build instructions are described also in the Project_Report. 
